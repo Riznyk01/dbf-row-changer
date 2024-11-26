@@ -1,0 +1,6 @@
+github.com/Riznyk01/dbf v0.0.0-20240229132034-4ba80e15ad35 h1:K+6nSi0JOipgp9FWH3pSQdRDwPWlg/Wvy+Lr0Om4hKY=
+github.com/Riznyk01/dbf v0.0.0-20240229132034-4ba80e15ad35/go.mod h1:1fIE2IEWdkNI+iM08a03AyDRR4qJ1JVSiNizjkI1EY8=
+github.com/Riznyk01/dbf v0.0.0-20241126111221-7fd73d2e7e6f h1:qaL8mKcEy7NFMTpIl3BqbIdGARD6QD1Nnk/0+vVUXJo=
+github.com/Riznyk01/dbf v0.0.0-20241126111221-7fd73d2e7e6f/go.mod h1:rzEUEdtmyPhn6IucyBBp+gMJjOsDB+kutrIMvi68kYM=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
